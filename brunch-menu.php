@@ -30,9 +30,11 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title">THREE EGG OMELET</strong><br>
-                  Served with Redskin Potatoes and Multigrain Toast<br>
-                  <strong>Filling Options:</strong> Ham, Bacon, Sausage, Onion, Pepper, 
-                  Mushroom, Tomato, Spinach, Broccoli </p>
+                  
+                Served with Redskin Potatoes<br>
+Filling Options: Ham, Bacon, Sausage, Onion, Pepper, Mushroom, Tomato, Spinach, & Broccoli<br>
+(Available all day)
+ </p>
               </div>
               <strong class="amount">$14</strong> </div>
             <!-- #Text box-->
@@ -41,7 +43,10 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title"> EGG PLATTER </strong><br>
-                  Two Eggs any Style with Roasted Potatoes and choice of Meat. </p>
+                Two Eggs Any Style with Redskin Potatoes & Choice of Meat<br>
+(Available All Day)   
+              
+              </p>
               </div>
               <strong class="amount">$11</strong> </div>
             <!-- #Text box-->
@@ -49,11 +54,35 @@ include 'header.php'; ?>
                <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title"> STEAK AND EGGS </strong><br>
-                  Sliced Beef Tenderloin, Two Eggs, and Roasted Potatoes. </p>
+                <p> <strong class="menu-title"> RIBEYE STEAK & EGGS
+
+
+
+
+</strong><br>
+Sliced Beef Tenderloin, Two Eggs, & Redskin Potatoes
+(Available all day) </p>
               </div>
-              <strong class="amount">$21</strong> </div>
+              <strong class="amount">$24</strong> </div>
             <!-- #Text box-->
+
+          
+
+ <!-- Text box-->
+ <div class="text-box-outer">
+              <div class="text-box">
+                <p> <strong class="menu-title">KING BREAKFAST</strong><br>
+                  
+                2 Eggs, Redskin Potatoes, Bacon, & Sausage<br>
+Served with Pancakes or French Toast<br>
+(Available all day)
+
+</p>
+              </div>
+              <strong class="amount">$15</strong> </div>
+            <!-- #Text box-->
+
+
 
 
 
@@ -61,9 +90,8 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title">CHICKEN AND WAFFLES</strong><br>
-                  Crispy Waffles topped with Fried Chicken, Maple Syrup, 
-                  Applewood Bacon Bits, and Green Onions. Served with Fresh 
-                  Fruit </p>
+                Maple Syrup, Applewood Bacon Bits, & Green Onions<br>
+Served with Fresh Fruit </p>
               </div>
               <strong class="amount">$14</strong> </div>
             <!-- #Text box-->
@@ -71,25 +99,31 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title">SMOKED SALMON BAGEL</strong><br>
-                  Toasted Sesame Bagel with Cream Cheese, Smoked Salmon, 
-                  Red Onions, and Capers, Mixed Greens Salad</p>
+                Cream Cheese, Smoked Salmon, Red Onions, & Capers
+Served with Mixed Greens Salad</p>
               </div>
               <strong class="amount">$17</strong> </div>
             <!-- #Text box-->
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">AVOCADO TOAST<small>(Vegetarian)</small></strong><br>
-                  Multigrain Toast, Fresh Avocado, Cilantro, Lime, Scrambled 
-                  Eggs, Fresh Fruit Cup</p>
+                <p> <strong class="menu-title">AVOCADO TOAST</strong><br>
+                Multigrain Toast, Fresh Avocado, Cilantro, Lime, & Eggs Your Way <br> Served with Fresh Fruit Cup
+              </p>
               </div>
               <strong class="amount">$12</strong> </div>
             <!-- #Text box-->
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">BLUEBERRY PANCAKES</strong><br>
-                  3 hubcap sized Pancakes, Fresh Blueberries, Sausage Links</p>
+                <p> <strong class="menu-title">BLUEBERRY/CHOCOLATE CHIP PANCAKES</strong><br>
+                Fresh Blueberries/Chocolate Chip, & Sausage
+
+
+
+
+
+ </p>
               </div>
               <strong class="amount">$11</strong> </div>
             <!-- #Text box-->
@@ -97,35 +131,36 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title">GIANT BREAKFAST SANDWICH</strong><br>
-                  3 Scrambled Eggs, Bacon, Ham, Sausage, and Cheddar served 
-                  on a Long Roll, Housemade Potato Chips</p>
+                Scrambled Eggs, Bacon, Ham, Sausage, & Cheddar
+Served on Long Roll</p>
               </div>
               <strong class="amount">$15</strong> </div>
             <!-- #Text box-->
+
+
+
+
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">STRAWBERRIES & CREAM STUFFED 
-                  FRENCH TOAST </strong><br>
-                  Sweet Vanilla Ricotta, Fresh Strawberries, Crispy Bacon </p>
+                <p> <strong class="menu-title">STUFFED FRENCHTOAST   </strong><br>
+                Sweet Vanilla Ricotta & Fresh Strawberries
+Served With Bacon
+ </p>
               </div>
               <strong class="amount">$11</strong> </div>
             <!-- #Text box-->
+
+
+
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title"> EGGS BENEDICT <small>(Vegetarian)</small> </strong><br>
-                  Spinach or Canadian Bacon, Poached Egg, English Muffin, Hollandaise, Redskin Potatoes </p>
+                <p> <strong class="menu-title"> EGGS BENEDICT <small>(Veg)</small> </strong><br>
+                Spinach or Canadian Bacon, Poached Egg, English Muffin, & Hollandaise
+Served with Redskin Potatoes </p>
               </div>
               <strong class="amount">$11</strong> </div>
-            <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
-              <div class="text-box">
-                <p> <strong class="menu-title"> KING BREAKFAST </strong><br>
-                  Two Eggs, Redskin Potatoes, Bacon, Sausage, Pancakes or French Toast </p>
-              </div>
-              <strong class="amount">$15</strong> </div>
             <!-- #Text box-->
            
          
@@ -133,7 +168,7 @@ include 'header.php'; ?>
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title"> SHRIMP & GRITS </strong><br>
-                  Sauteed Shrimp with Peppers, Onions, Applewood Bacon, and Green Onion over Cheesy Corn Grits. </p>
+                Sautéed Shrimp with Peppers, Onions, Applewood Bacon, & Green Onion over Cheesy Corn Grits </p>
               </div>
               <strong class="amount">$16</strong> </div>
             <!-- #Text box-->
@@ -160,32 +195,11 @@ include 'header.php'; ?>
 </div>
               
 
-              
-
-
-
-
-
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">QUARTER POUNDER FRIES</strong></p>
-                </div>
-                <strong class="amount">$8.00</strong>
-              </div>
-              <!-- #Text box-->
-
-
-
-              
-
-
-              
-
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">CHICKEN TENDERS WITH FRIES </strong></p>
+                  <p><strong class="menu-title">EGGS</strong><br><small>Sausage or Bacon<br>
+(Available All Day)</small></p>
                 </div>
                 <strong class="amount">$7.00</strong>
               </div>
@@ -193,20 +207,85 @@ include 'header.php'; ?>
 
 
 
-
               
+
+
               
 
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">PENNE WITH RED SAUCE</strong></p>
+                  <p><strong class="menu-title">SILVER DOLLAR PANCAKES
+
+
+
+
+</strong> <br><small>Sausage or Bacon
+
+
+
+
+</small></p>
                 </div>
-                <strong class="amount">$5.00</strong>
+                <strong class="amount">$8.00</strong>
               </div>
               <!-- #Text box-->
 
+
+
+
               
+              
+
+
+
+
+  <!-- Text box-->
+  <div class="text-box-outer">
+                <div class="text-box">
+                  <p><strong class="menu-title">FRENCH TOAST
+
+
+
+
+
+
+
+
+
+</strong> <br><small>Sausage or Bacon
+
+
+
+
+</small></p>
+                </div>
+                <strong class="amount">$8.00</strong>
+              </div>
+              <!-- #Text box-->
+
+
+            
+
+  <!-- Text box-->
+  <div class="text-box-outer">
+                <div class="text-box">
+                  <p><strong class="menu-title">WAFFLE
+
+
+
+
+
+
+
+
+
+</strong> </p>
+                </div>
+                <strong class="amount">$8.00</strong>
+              </div>
+              <!-- #Text box-->
+
 
             
 
@@ -215,28 +294,9 @@ include 'header.php'; ?>
 
 
 
-              
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">MAC AND CHEESE</strong></p>
-                </div>
-                <strong class="amount">$5.00</strong>
-              </div>
-              <!-- #Text box-->
 
 
 
-
-              
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">PERSONAL CHEESE PIZZA</strong></p>
-                </div>
-                <strong class="amount">$5.00</strong>
-              </div>
-              <!-- #Text box-->
 
 
 
@@ -259,80 +319,96 @@ include 'header.php'; ?>
               <div class="text-box">
                 <p> <strong class="menu-title">REDSKIN POTATOES</strong> </p>
               </div>
-              <strong class="amount">$5</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">FRESH FRUIT CUP</strong> </p>
+                <p> <strong class="menu-title">FRESH FRUIT </strong> </p>
               </div>
-              <strong class="amount">$5</strong> </div>
-            <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
-              <div class="text-box">
-                <p> <strong class="menu-title">CRISPY FRENCH FRIES</strong> </p>
-              </div>
-              <strong class="amount">$5</strong> </div>
-            <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
-              <div class="text-box">
-                <p> <strong class="menu-title">HOUSEMADE POTATO CHIPS</strong> </p>
-              </div>
-              <strong class="amount">$5</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
             <!-- Text box-->
             <div class="text-box-outer">
               <div class="text-box">
                 <p> <strong class="menu-title">BACON</strong> </p>
               </div>
-              <strong class="amount">$5</strong> </div>
-            <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
-              <div class="text-box">
-                <p> <strong class="menu-title">SAUSAGE</strong> </p>
-              </div>
-              <strong class="amount">$5</strong> </div>
-            <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
-              <div class="text-box">
-                <p> <strong class="menu-title">TURKEY BACON</strong> </p>
-              </div>
-              <strong class="amount">$5</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
 
              <!-- Text box-->
-            <div class="text-box-outer">
+             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">CHEESY GRITS</strong> </p>
+                <p> <strong class="menu-title">SAUSAGE</strong> </p>
               </div>
-              <strong class="amount">$5</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
+
+
+
+             <!-- Text box-->
+             <div class="text-box-outer">
+              <div class="text-box">
+                <p> <strong class="menu-title">SCRAPPLE</strong> </p>
+              </div>
+              <strong class="amount">$5:00</strong> </div>
+            <!-- #Text box-->
+
+
             
-            <!-- Text box-->
-            <div class="text-box-outer">
+             <!-- Text box-->
+             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">TOASTED BAGEL</strong> </p>
+                <p> <strong class="menu-title">TURKEY BACON </strong> </p>
               </div>
-              <strong class="amount">$3</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
+
+
+
+            
+            
+             <!-- Text box-->
+             <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">ENGLISH MUFFIN</strong> </p>
+                <p> <strong class="menu-title">CHEESY GRITS  </strong> </p>
               </div>
-              <strong class="amount">$3</strong> </div>
+              <strong class="amount">$5:00</strong> </div>
             <!-- #Text box-->
-            <!-- Text box-->
-            <div class="text-box-outer">
+
+
+
+
+   <!-- Text box-->
+   <div class="text-box-outer">
               <div class="text-box">
-                <p> <strong class="menu-title">MULTIGRAIN TOAST</strong> </p>
+                <p> <strong class="menu-title">TOASTED BAGEL   </strong> </p>
               </div>
-              <strong class="amount">$3</strong> </div>
+              <strong class="amount">$3:00</strong> </div>
             <!-- #Text box-->
+
+
+
+
+   <!-- Text box-->
+   <div class="text-box-outer">
+              <div class="text-box">
+                <p> <strong class="menu-title">ENGLISH MUFFIN   </strong> </p>
+              </div>
+              <strong class="amount">$2:00</strong> </div>
+            <!-- #Text box-->
+
+
+
+   <!-- Text box-->
+   <div class="text-box-outer">
+              <div class="text-box">
+                <p> <strong class="menu-title">MULTIGRAIN TOAST   </strong> </p>
+              </div>
+              <strong class="amount">$2:00</strong> </div>
+            <!-- #Text box-->
+          
+
            
           </div>
           <!-- #Text col-->
