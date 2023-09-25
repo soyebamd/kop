@@ -69,6 +69,7 @@
                  
               <li><a href="pizza">Pizza</a></li>
                 <li><a href="tavern-menu">Tavern Menu </a></li>
+                <li><a href="food-menu">Food Menu </a></li>
                 <li><a href="brunch-menu">Breakfast </a></li>
                 <li><a href="late-night-menu">Late Night Menu</a></li>
                 <li><a href="kids-menu">Kids Menu</a></li>
@@ -106,7 +107,10 @@
                           <ul class="dropdown-menu" role="menu">
                             
                           <li><a href="pizza">Pizza</a></li>
+
                 <li><a href="tavern-menu">Tavern Menu </a></li>
+                
+                <li><a href="food-menu">Food Menu </a></li>
                 <li><a href="brunch-menu">Breakfast </a></li>
                 <li><a href="late-night-menu">Late Night Menu</a></li>
                 <li><a href="kids-menu">Kids Menu</a></li>

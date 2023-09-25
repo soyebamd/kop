@@ -21,21 +21,21 @@ include 'header.php'; ?>
 
 
 
+                      <p>MOSCOW MULE</p>
+<p>BLUEBERRY LEMON DROP MARTINI (SEASONAL)</p>
+<p>LEMON DROP MARTINI</p>
+<p>OLD FASHION (Smoked)</p>
+<p>APEROL SPRITZ</p>
+<p>KOP LEMONADE</p>
+<p>ARNIE'S SPIKED LEMONADE</p>
+<p>MANHATTAN (Smoked)</p>
+<p>STRAWBERRY MARGARITA</p>
+<p>PERFECT PATRON MARGARITA</p>
+<p>CADILLAC MARGARITA</p>
+<p>MOJITO</p>
+<p>STRAWBERRY MOJITO</p>
+<p>MIMOSA TOWERS</p>
 
-<p>Moscow Mule</p>
-    <p>Lemon Drop Martini</p>
-    <p>Smoked Bourbon</p>
-    <p>Apperol Spritz</p>
-    <p>Koplemonade</p>
-    <p>Spiked Arnold Palmer</p>
-    <p>Manhattan</p>
-    <p>Perfect Patron Margarita</p>
-    <p>Cadillac Margarita</p>
-    <p>Mimosa Towers</p>
-    <p>Mojito</p>
-    <p>Strawberry Mojito</p>
-    <p>Beer Buckets</p>
-    <p>Stateside and Surfside</p>
 
 
 
@@ -63,24 +63,34 @@ include 'header.php'; ?>
                  
                  <div class="text-box-outer">
                     <div class="text-box">
-                      <h2>wine</h2>
+                      <h2>Wine</h2>
 
 
                       <p><strong>WHITE</strong></p>
-                      <p>Pinot Grigio. Chardonnay. Moscato</p>
+                      <p>PINOT GRIGIO</p>
+<p>CHARDONNAY</p>
+<p>MOSCATO</p>
+<p>SAUVIGNON BLANC</p>
 
                       <br>
 
 
                       <p><strong>RED</strong></p>
-                      <p>Cabernet Sauvignon. Pinot Noir. Merlot. Rioja. Shiraz.</p>
+                      
+                      <p>CABERNET SAUVIGNON</p>
+<p>PINOT NOIR</p>
+<p>MERLOT</p>
+<p>RIOJA</p>
+<p>SHIRAZ</p>
+
+
 
 
                       <br>
 
                       
                       <p><strong>ROSE</strong></p>
-                      <p>Prosecco</p>
+                      <p>PROSECCO</p>
 
 
 
@@ -100,56 +110,68 @@ include 'header.php'; ?>
                 <div class="text-col">
                   <div class="text-box-outer">
                     <div class="text-box">
-                      <h2>Beer</h2>
+                      <h2>Bottled Beer</h2>
                       
-                      <p>Bottled</p>
-<p>Sam Adams Water Lager</p>
-<p>Sam Adams Boston Lager</p>
-<p>Michelob Ultra</p>
-<p>Corona</p>
-<p>Bass</p>
-<br>
-
-<p>BOTTLED IPA</p>
-<p>VICTORY GOLDEN MONET</p>
-<p>VICTORY HOP DEVIL</p>
-<p>YARDS LEVELUP</p>
+                      <p>SAM ADAMS WINTER LAGER</p>
+<p>SAM ADAMS BOSTON LAGER</p>
 <p>GUINNESS DRAUGHT STOUT</p>
+<p>MICHELOB ULTRA</p>
+<p>CORONA</p>
+<p>ASK ABOUT OUR BEER BUCKETS</p>
 
 <br>
 
-<p>Spiked</p>
-<p>Mike's Hard Lemonade</p>
-<p>Arnies Spiked Lemonade</p>
-<p>White Claw</p>
-<p>Twisted Tea</p>
+<h2>Bottled IPA</h2>
+<p>VICTORY GOLDEN MONKEY</p>
+<p>VICTORY HOPDEVIL</p>
+<p>YARDS (SEASONAL)</p>
+<p>YARDS LEVEL UP</p>
 
 
 <br>
 
-<p>On Tap</p>
-<p>Coors Light</p>
-<p>Coors Banquet</p>
-<p>Michelob Ultra</p>
-<p>Angry Orchard</p>
-<p>Lagunitas</p>
-<p>Cape May IPA</p>
-<p>Cape May Coastal Evacuation</p>
-<p>Workhorse New England</p>
-<p>Twisted Tea</p>
+<h2>Spiked</h2>
+<p>MIKE'S HARD LEMONADE</p>
+<p>SPIKED ARNOLD PALMER</p>
+<p>WHITE CLAW</p>
+<p>TWISTED TEA</p>
+<p>STATESIDE VODKA & SODA</p>
+<p>SURFSIDE VODKA & TEA</p>
+
+
+
 
 <br>
 
-<p>On Tap</p>
-<p>Modelo</p>
-<p>Miller Light</p>
-<p>Yuengling</p>
-<p>Blue Moon</p>
-<p>Guinness</p>
-<p>Stella</p>
-<p>Heineken</p>
-<p>Angry Orchard</p>
-<p>Bud</p>
+<h2>On Tap</h2>
+<p>MODELO</p>
+<p>MILLER LIGHT</p>
+<p>YUENGLING</p>
+<p>BLUE MOON</p>
+<p>GUINNESS</p>
+<p>STELLA</p>
+<p>HEINEKEN</p>
+<p>BUD</p>
+<p>ANGRY ORCHARD CIDER</p>
+
+
+
+<br>
+
+
+
+<h2>On Tag IPA</h2>
+
+<p>CONSHY TYPE A</p>
+<p>CONSHY HAZY</p>
+<p>LAGUNITAS</p>
+<p>CAPE MAY IPA</p>
+<p>CAPE MAY COASTAL EVAC</p>
+<p>WORK HORSE NEW ENGLAND</p>
+
+
+
+
 
                     </div>
                   </div>

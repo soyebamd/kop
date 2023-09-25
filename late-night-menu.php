@@ -21,22 +21,14 @@ include 'header.php';
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">128 NACHOS</strong><br><small>Jalapeno, Chipotle Black Beans, Pico de Gallo, Guacamole, and Queso Blanco Sauce. Chicken +$5, Beef +$6.</small></p>
+                  <p><strong class="menu-title">128 NACHOS</strong><br><small>Jalapeno, Chipotle Black Beans, Pico de Gallo, Guacamole, and Queso Blanco Sauce.
+                    <br> Chicken +$5<br> Beef +$6.</small></p>
                 </div>
                 <strong class="amount">$14.00</strong> 
                </div>
               <!-- #Text box-->
 
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">FRENCH ONION SOUP</strong><br>
-                  <small>Swiss, Provolone, Crostini</small></p>
-                </div>
-                <strong class="amount">$8.00 </strong>
-              </div>
-              <!-- #Text box-->
-
+              
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
@@ -61,7 +53,12 @@ include 'header.php';
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">GIANT SOFT PRETZEL</strong><br>
-                  <small>Cheddar Cheese Sauce, Spicy Mustard</small></p>
+                  <small>KOP Cheese Sauce & Spicy Mustard
+
+
+
+
+</small></p>
                 </div>
                 <strong class="amount">$9.00 </strong>
               </div>
@@ -71,7 +68,7 @@ include 'header.php';
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">BRUSSELS SPROUTS</strong><br>
-                  <small>Jalapeno, Smoked Paprika, Almonds</small></p>
+                  <small>Jalapeño, Sweet Chili, & Lime Aioli</small></p>
                 </div>
                 <strong class="amount">$8.00 </strong>
               </div>
@@ -81,7 +78,7 @@ include 'header.php';
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">CLASSIC POTATO SKINS</strong><br>
-                  <small>Cheddar Jack, Applewood Bacon, Green Onions, KOP White Cheese Sauce</small></p>
+                  <small>Cheddar Jack, Applewood Bacon, Green Onions, & KOP White Cheese Sauce</small></p>
                 </div>
                 <strong class="amount">$9.00 </strong>
               </div>
@@ -93,17 +90,22 @@ include 'header.php';
                   <p><strong class="menu-title">DANIEL’S CRISPY COCONUT SHRIMP</strong><br>
                   <small>Sweet Chili Dipping Sauce</small></p>
                 </div>
-                <strong class="amount">$9.00/5PC </strong>
+                <strong class="amount">$14  .00/5PC </strong>
               </div>
               <!-- #Text box-->
 
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">POPPER ROLLS (3PC)</strong><br>
-                  <small>Fresh Jalapeno Peppers Stuffed with Cheese</small></p>
+                  <p><strong class="menu-title">POPPER ROLLS </strong><br>
+                  <small>Fresh Jalapeño Peppers Stuffed with Cheese
+
+
+
+
+</small></p>
                 </div>
-                <strong class="amount">$11.00 </strong>
+                <strong class="amount">$11.00/3PC </strong>
               </div>
               <!-- #Text box-->
 
