@@ -93,9 +93,8 @@ include 'header.php'; ?>
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">128 NACHOS</strong><br>
-                    <small>Jalapeno, Chipotle Black Beans, Pico de Gallo, </small><br>
-                    <small>Guacamole, Queso Blanco Cheddar Sauce</small><br>
-                    <small>Chicken +5, Beef +6.</small>
+                    <small>Jalapeno, Chipotle Black Beans, Pico de Gallo, Guacamole, Queso Blanco Cheddar Sauce<br>
+                    Chicken +5 <br> Beef +6</small>
                   </p>
                 </div>
                 <strong class="amount">$12.00</strong>
@@ -106,7 +105,7 @@ include 'header.php'; ?>
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">POPPER ROLLS</strong><br>
-                    <small>Fresh Jalapeño Peppers Filled with Cheese.</small>
+                    <small>Fresh Jalapeño Peppers <br> Filled with Cheese.</small>
                   </p>
                 </div>
                 <strong class="amount">$11.00/3PC</strong>
@@ -117,8 +116,8 @@ include 'header.php'; ?>
               <div class="text-box-outer">
                 <div class="text-box">
                   <p><strong class="menu-title">SLIDER TWINS</strong><br>
-                    <small>PICK TWO: Angus, Fried Chicken, OR Carolina pulled pork<br>
-SERVED WITH HOusE POTATO CHIPS</small>
+                    <small>Pick Two: Angus, Fried Chicken, or Carolina Pulled Pork<br>
+Served with House Potato Chips</small>
                   </p>
                 </div>
                 <strong class="amount">$11.00</strong>
@@ -353,8 +352,21 @@ Served with House Potato Chips</small>
 
 
 
+
+          </div>
+          <!-- #menu box-->
+        </div>
+        <!--- #first col -->
+
+        <!--- second col -->
+        <div class="col-md-6 col-xs-12">
+          <!-- menu box-->
+          <div class="menu-box">
+
+
+
             <!-- Text col-->
-            <div class="text-col m-top-5">
+            <div class="text-col ">
               <h2>Entrees</h2>
               <!-- Text box-->
               <div class="text-box-outer">
@@ -445,8 +457,9 @@ Steak +$6</small>
             </div>
             <!-- #Text col-->
 
+          
              <!-- Text col-->
-             <div class="text-col  m-top-5">
+             <div class="text-col m-top-5">
               <h2>Salads</h2>
               <!-- Text box-->
               <div class="text-box-outer">
@@ -513,19 +526,11 @@ Served with tortilla chips</small>
             <!-- #Text col-->
 
 
-          </div>
-          <!-- #menu box-->
-        </div>
-        <!--- #first col -->
-
-        <!--- second col -->
-        <div class="col-md-6 col-xs-12">
-          <!-- menu box-->
-          <div class="menu-box">
+            
            
 
             <!-- Text col-->
-            <div class="text-col ">
+            <div class="text-col  m-top-5">
               <div class="d-flex">
               <h2>Sides</h2>
               <strong class="amount"></strong>
@@ -533,8 +538,8 @@ Served with tortilla chips</small>
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">POTATOES:</strong><br>
-                <small>MASHED OR REDSKIN</small>              
+                  <p><strong class="menu-title">MASHED OR REDSKIN POTATOES</strong><br>
+                           
               </p>
                 </div>
                
@@ -680,8 +685,6 @@ Served with tortilla chips</small>
     </div>
   </div>
   <!-- #Text box -->
-
-
   
   <!-- Text box -->
   <div class="text-box-outer">
@@ -692,94 +695,48 @@ Served with tortilla chips</small>
   <!-- #Text box -->
 
 
-  
+
 </div>
 <!-- #Text col -->
 
 
 
 
-              <!-- Text col-->
-              <div class="text-col m-top-5">
-              <div class="d-flex">
-              <h2>Soups</h2>
-              
-</div>
-              
+            
+
+
+
 
               
+            
 
 
 
 
+            <!-- Text col-->
+            <div class="text-col m-top-5">
+
+
+
+            <div class="d-flex">
+    <h2>Kids</h2>
+    
+  </div>
+
+
+
+
+
+
+            
 
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">SOUP OF THE DAY</strong></p>
-                </div>
-                <strong class="amount">$7.00</strong>
-              </div>
-              <!-- #Text box-->
-
-
-
-              
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">FRENCH ONION SOUP</strong></p>
-                </div>
-                <strong class="amount">$8.00</strong>
-              </div>
-              <!-- #Text box-->
-
-
-
-              
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">SWISS, PROVOLONE, CROSTINI</strong></p>
-                </div>
+                  <p><strong class="menu-title">CHEESE QUARTER POUNDER</strong><br>
                 
-              </div>
-              <!-- #Text box-->
-
-
-              
-            
-
-
-           
-            </div>
-            <!-- #Text col-->
-
-
-
-
-
-
-            
-
-              <!-- Text col-->
-              <div class="text-col m-top-5">
-              <div class="d-flex">
-              <h2>kids</h2>
-              
-</div>
-              
-
-              
-
-
-
-
-
-              <!-- Text box-->
-              <div class="text-box-outer">
-                <div class="text-box">
-                  <p><strong class="menu-title">QUARTER POUNDER FRIES</strong></p>
+                  <small>Served with Fries</small>
+                </p>
                 </div>
                 <strong class="amount">$8.00</strong>
               </div>
@@ -795,7 +752,7 @@ Served with tortilla chips</small>
               <!-- Text box-->
               <div class="text-box-outer">
                 <div class="text-box">
-                  <p><strong class="menu-title">CHICKEN TENDERS WITH FRIES </strong></p>
+                  <p><strong class="menu-title">CHICKEN TENDERS </strong><br> <small>Served with Fries</small></p>
                 </div>
                 <strong class="amount">$7.00</strong>
               </div>
@@ -855,9 +812,10 @@ Served with tortilla chips</small>
 
 
 
-           
-            </div>
-            <!-- #Text col-->
+              </div>
+<!-- #Text col -->
+
+            
 
 
 
